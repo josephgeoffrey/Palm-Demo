@@ -1,0 +1,831 @@
+{
+    "meta": {
+        "applicationNumberText": "12345786"
+    },
+    "results": [
+        {
+            "audit": {
+                "lastModifiedUser": "rmarriott",
+                "lastModifiedTime": 1408406041
+            },
+            "caseActionCode": "C.ADB",
+            "caseActionDescriptionText": "Correspondence Address Change",
+            "recordedDate": 1408334400,
+            "sequenceNumber": 61,
+            "entityName": "rmarriott",
+            "publicIndicator": true,
+            "actionNumber": 140571
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1351012986
+            },
+            "caseActionCode": "PGM/",
+            "caseActionDescriptionText": "Recordation of Patent Grant Mailed",
+            "recordedDate": 1350964800,
+            "sequenceNumber": 60,
+            "entityName": " ",
+            "publicIndicator": true,
+            "actionNumber": 1219
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDENF2",
+                "lastModifiedTime": 1349429110
+            },
+            "caseActionCode": "EML_NTR",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1349409600,
+            "sequenceNumber": 59,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140859
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1349270395
+            },
+            "caseActionCode": "WPIR",
+            "caseActionDescriptionText": "Issue Notification Mailed",
+            "applicationStatusNumber": "150",
+            "applicationStatusDescriptionText": "Patented Case",
+            "applicationStatusDate": 1349270395,
+            "recordedDate": 1349236800,
+            "sequenceNumber": 58,
+            "entityName": " ",
+            "publicIndicator": true,
+            "actionNumber": 1130
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1349222283
+            },
+            "caseActionCode": "PTAC",
+            "caseActionDescriptionText": "Patent Issue Date Used in PTA Calculation",
+            "recordedDate": 1350964800,
+            "sequenceNumber": 57,
+            "entityName": " ",
+            "publicIndicator": true,
+            "actionNumber": 110102
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1349190852
+            },
+            "caseActionCode": "EFDC",
+            "caseActionDescriptionText": "Export to Final Data Capture",
+            "recordedDate": 1348459200,
+            "sequenceNumber": 56,
+            "entityName": " ",
+            "publicIndicator": false,
+            "actionNumber": 250319
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lbarnett",
+                "lastModifiedTime": 1348251483
+            },
+            "caseActionCode": "D1935",
+            "caseActionDescriptionText": "Dispatch to FDC",
+            "recordedDate": 1348200000,
+            "sequenceNumber": 55,
+            "entityName": "lbarnett",
+            "publicIndicator": true,
+            "actionNumber": 100061
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lbarnett",
+                "lastModifiedTime": 1348251482
+            },
+            "caseActionCode": "PILS",
+            "caseActionDescriptionText": "Application Is Considered Ready for Issue",
+            "recordedDate": 1348200000,
+            "sequenceNumber": 54,
+            "entityName": "lbarnett",
+            "publicIndicator": true,
+            "actionNumber": 110050
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "grogers1",
+                "lastModifiedTime": 1348242163
+            },
+            "caseActionCode": "N084",
+            "caseActionDescriptionText": "Issue Fee Payment Verified",
+            "applicationStatusNumber": "95",
+            "applicationStatusDescriptionText": "Publications -- Issue Fee Payment Verified",
+            "applicationStatusDate": 1348242163,
+            "recordedDate": 1347940800,
+            "sequenceNumber": 53,
+            "entityName": "grogers1",
+            "publicIndicator": true,
+            "actionNumber": 1084
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "INTEFSW-RAM",
+                "lastModifiedTime": 1347996933
+            },
+            "caseActionCode": "IFEE",
+            "caseActionDescriptionText": "Issue Fee Payment Received",
+            "applicationStatusNumber": "94",
+            "applicationStatusDescriptionText": "Publications -- Issue Fee Payment Received",
+            "applicationStatusDate": 1347996933,
+            "recordedDate": 1347940800,
+            "sequenceNumber": 52,
+            "entityName": "INTEFSW-RAM",
+            "publicIndicator": true,
+            "actionNumber": 110051
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1344889349
+            },
+            "caseActionCode": "FIDC",
+            "caseActionDescriptionText": "Finished Initial Data Capture",
+            "recordedDate": 1344225600,
+            "sequenceNumber": 51,
+            "entityName": " ",
+            "publicIndicator": false,
+            "actionNumber": 250318
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1340098913
+            },
+            "caseActionCode": "ELC_RVW",
+            "caseActionDescriptionText": "Electronic Review",
+            "recordedDate": 1339992000,
+            "sequenceNumber": 50,
+            "entityName": "EXBDERV1",
+            "publicIndicator": true,
+            "actionNumber": 140818
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "",
+                "lastModifiedTime": 1340056556
+            },
+            "caseActionCode": "EIDC",
+            "caseActionDescriptionText": "Export to Initial Data Capture",
+            "recordedDate": 1339732800,
+            "sequenceNumber": 49,
+            "entityName": " ",
+            "publicIndicator": false,
+            "actionNumber": 250317
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1340098913
+            },
+            "caseActionCode": "EML_NTF",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1339992000,
+            "sequenceNumber": 48,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140817
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "grogers1",
+                "lastModifiedTime": 1348242163
+            },
+            "caseActionCode": "MN/=.",
+            "caseActionDescriptionText": "Mail Notice of Allowance",
+            "applicationStatusNumber": "93",
+            "applicationStatusDescriptionText": "Notice of Allowance Mailed -- Application Received in Office of Publications",
+            "applicationStatusDate": 1339691509,
+            "recordedDate": 1339992000,
+            "sequenceNumber": 47,
+            "entityName": "siwele",
+            "publicIndicator": true,
+            "actionNumber": 100539
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edantzler",
+                "lastModifiedTime": 1339617946
+            },
+            "caseActionCode": "OAR",
+            "caseActionDescriptionText": "Office Action Review",
+            "recordedDate": 1339560000,
+            "sequenceNumber": 46,
+            "entityName": "edantzler",
+            "publicIndicator": false,
+            "actionNumber": 250489
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edantzler",
+                "lastModifiedTime": 1339617946
+            },
+            "caseActionCode": "OAR",
+            "caseActionDescriptionText": "Office Action Review",
+            "recordedDate": 1339560000,
+            "sequenceNumber": 45,
+            "entityName": "edantzler",
+            "publicIndicator": false,
+            "actionNumber": 250489
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edantzler",
+                "lastModifiedTime": 1339617884
+            },
+            "caseActionCode": "IREV",
+            "caseActionDescriptionText": "Issue Revision Completed",
+            "recordedDate": 1339560000,
+            "sequenceNumber": 44,
+            "entityName": "edantzler",
+            "publicIndicator": false,
+            "actionNumber": 140605
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "siwele",
+                "lastModifiedTime": 1339691509
+            },
+            "caseActionCode": "N/=.",
+            "caseActionDescriptionText": "Notice of Allowance Data Verification Completed",
+            "applicationStatusNumber": "90",
+            "applicationStatusDescriptionText": "Allowed -- Notice of Allowance Not Yet Mailed",
+            "applicationStatusDate": 1339617878,
+            "recordedDate": 1339560000,
+            "sequenceNumber": 43,
+            "entityName": "edantzler",
+            "publicIndicator": true,
+            "actionNumber": 103002
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edantzler",
+                "lastModifiedTime": 1339617790
+            },
+            "caseActionCode": "DVER",
+            "caseActionDescriptionText": "Document Verification",
+            "recordedDate": 1339560000,
+            "sequenceNumber": 42,
+            "entityName": "edantzler",
+            "publicIndicator": false,
+            "actionNumber": 140784
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "twill",
+                "lastModifiedTime": 1339593092
+            },
+            "caseActionCode": "EX.A",
+            "caseActionDescriptionText": "Examiner's Amendment Communication",
+            "recordedDate": 1339560000,
+            "sequenceNumber": 41,
+            "entityName": "twill",
+            "publicIndicator": true,
+            "actionNumber": 102028
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "twill",
+                "lastModifiedTime": 1339593091
+            },
+            "caseActionCode": "CNTA",
+            "caseActionDescriptionText": "Allowability Notice",
+            "applicationStatusNumber": "89",
+            "applicationStatusDescriptionText": "Allowance Counted",
+            "applicationStatusDate": 1339593092,
+            "recordedDate": 1339560000,
+            "sequenceNumber": 40,
+            "entityName": "twill",
+            "publicIndicator": false,
+            "actionNumber": 140693
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966851
+            },
+            "caseActionCode": "FWDX",
+            "caseActionDescriptionText": "Date Forwarded to Examiner",
+            "recordedDate": 1313899200,
+            "sequenceNumber": 37,
+            "entityName": "lwalden",
+            "publicIndicator": true,
+            "actionNumber": 110000
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966851
+            },
+            "caseActionCode": "AMSB",
+            "caseActionDescriptionText": "Amendment Submitted/Entered with Filing of CPA/RCE",
+            "recordedDate": 1313553600,
+            "sequenceNumber": 36,
+            "entityName": "lwalden",
+            "publicIndicator": false,
+            "actionNumber": 120086
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966825
+            },
+            "caseActionCode": "RCEX",
+            "caseActionDescriptionText": "Request for Continued Examination (RCE)",
+            "applicationStatusNumber": "30",
+            "applicationStatusDescriptionText": "Docketed New Case - Ready for Examination",
+            "applicationStatusDate": 1313966825,
+            "recordedDate": 1313553600,
+            "sequenceNumber": 35,
+            "entityName": "lwalden",
+            "publicIndicator": true,
+            "actionNumber": 101032
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966824
+            },
+            "caseActionCode": "ABN9",
+            "caseActionDescriptionText": "Disposal for a RCE / CPA / R129",
+            "recordedDate": 1313899200,
+            "sequenceNumber": 34,
+            "entityName": "lwalden",
+            "publicIndicator": true,
+            "actionNumber": 102080
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966824
+            },
+            "caseActionCode": "BRCE",
+            "caseActionDescriptionText": "Workflow - Request for RCE - Begin",
+            "recordedDate": 1313553600,
+            "sequenceNumber": 33,
+            "entityName": "INTEFSW-RAM",
+            "publicIndicator": true,
+            "actionNumber": 4014
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDENF2",
+                "lastModifiedTime": 1311067594
+            },
+            "caseActionCode": "EML_NTR",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1311048000,
+            "sequenceNumber": 32,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140859
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "ktang1",
+                "lastModifiedTime": 1310746696
+            },
+            "caseActionCode": "MCTAV",
+            "caseActionDescriptionText": "Mail Advisory Action (PTOL - 303)",
+            "applicationStatusNumber": "83",
+            "applicationStatusDescriptionText": "Advisory Action Mailed",
+            "applicationStatusDate": 1310746696,
+            "recordedDate": 1311048000,
+            "sequenceNumber": 31,
+            "entityName": "ktang1",
+            "publicIndicator": true,
+            "actionNumber": 100519
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "gjohnson",
+                "lastModifiedTime": 1310740280
+            },
+            "caseActionCode": "OAR",
+            "caseActionDescriptionText": "Office Action Review",
+            "recordedDate": 1310702400,
+            "sequenceNumber": 30,
+            "entityName": "gjohnson",
+            "publicIndicator": false,
+            "actionNumber": 250489
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "ktang1",
+                "lastModifiedTime": 1310746696
+            },
+            "caseActionCode": "CTAV",
+            "caseActionDescriptionText": "Advisory Action (PTOL-303)",
+            "applicationStatusNumber": "82",
+            "applicationStatusDescriptionText": "Advisory Action Counted, Not Yet Mailed",
+            "applicationStatusDate": 1310673654,
+            "recordedDate": 1310616000,
+            "sequenceNumber": 29,
+            "entityName": "twill",
+            "publicIndicator": true,
+            "actionNumber": 102015
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edavis1",
+                "lastModifiedTime": 1304453070
+            },
+            "caseActionCode": "FWDX",
+            "caseActionDescriptionText": "Date Forwarded to Examiner",
+            "recordedDate": 1304395200,
+            "sequenceNumber": 28,
+            "entityName": "edavis1",
+            "publicIndicator": true,
+            "actionNumber": 110000
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lwalden",
+                "lastModifiedTime": 1313966824
+            },
+            "caseActionCode": "A.NE",
+            "caseActionDescriptionText": "Response after Final Action",
+            "applicationStatusNumber": "80",
+            "applicationStatusDescriptionText": "Response after Final Action Forwarded to Examiner",
+            "applicationStatusDate": 1304453065,
+            "recordedDate": 1304049600,
+            "sequenceNumber": 27,
+            "entityName": "edavis1",
+            "publicIndicator": true,
+            "actionNumber": 101046
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1298117234
+            },
+            "caseActionCode": "ELC_RVW",
+            "caseActionDescriptionText": "Electronic Review",
+            "recordedDate": 1298005200,
+            "sequenceNumber": 26,
+            "entityName": "EXBDERV1",
+            "publicIndicator": true,
+            "actionNumber": 140818
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1298117234
+            },
+            "caseActionCode": "EML_NTF",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1298005200,
+            "sequenceNumber": 25,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140817
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "edavis1",
+                "lastModifiedTime": 1304453070
+            },
+            "caseActionCode": "MCTFR",
+            "caseActionDescriptionText": "Mail Final Rejection (PTOL - 326)",
+            "applicationStatusNumber": "61",
+            "applicationStatusDescriptionText": "Final Rejection Mailed",
+            "applicationStatusDate": 1297871512,
+            "recordedDate": 1298005200,
+            "sequenceNumber": 24,
+            "entityName": "Choang",
+            "publicIndicator": true,
+            "actionNumber": 100521
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "Choang",
+                "lastModifiedTime": 1297871512
+            },
+            "caseActionCode": "CTFR",
+            "caseActionDescriptionText": "Final Rejection",
+            "applicationStatusNumber": "60",
+            "applicationStatusDescriptionText": "Final Rejection Counted, Not Yet Mailed",
+            "applicationStatusDate": 1297708386,
+            "recordedDate": 1297659600,
+            "sequenceNumber": 23,
+            "entityName": "jswayne",
+            "publicIndicator": true,
+            "actionNumber": 102018
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "awhite2",
+                "lastModifiedTime": 1292352979
+            },
+            "caseActionCode": "C614",
+            "caseActionDescriptionText": "New or Additional Drawing Filed",
+            "recordedDate": 1292216400,
+            "sequenceNumber": 22,
+            "entityName": "awhite2",
+            "publicIndicator": true,
+            "actionNumber": 101013
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "awhite2",
+                "lastModifiedTime": 1292352970
+            },
+            "caseActionCode": "FWDX",
+            "caseActionDescriptionText": "Date Forwarded to Examiner",
+            "recordedDate": 1292302800,
+            "sequenceNumber": 21,
+            "entityName": "awhite2",
+            "publicIndicator": true,
+            "actionNumber": 110000
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "awhite2",
+                "lastModifiedTime": 1292352970
+            },
+            "caseActionCode": "A...",
+            "caseActionDescriptionText": "Response after Non-Final Action",
+            "applicationStatusNumber": "71",
+            "applicationStatusDescriptionText": "Response to Non-Final Office Action Entered and Forwarded to Examiner",
+            "applicationStatusDate": 1292352970,
+            "recordedDate": 1292216400,
+            "sequenceNumber": 20,
+            "entityName": "awhite2",
+            "publicIndicator": true,
+            "actionNumber": 101048
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1286965850
+            },
+            "caseActionCode": "ELC_RVW",
+            "caseActionDescriptionText": "Electronic Review",
+            "recordedDate": 1286856000,
+            "sequenceNumber": 19,
+            "entityName": "EXBDERV1",
+            "publicIndicator": true,
+            "actionNumber": 140818
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDERV1",
+                "lastModifiedTime": 1286965850
+            },
+            "caseActionCode": "EML_NTF",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1286856000,
+            "sequenceNumber": 18,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140817
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "awhite2",
+                "lastModifiedTime": 1292352970
+            },
+            "caseActionCode": "MCTNF",
+            "caseActionDescriptionText": "Mail Non-Final Rejection",
+            "applicationStatusNumber": "41",
+            "applicationStatusDescriptionText": "Non Final Action Mailed",
+            "applicationStatusDate": 1286465996,
+            "recordedDate": 1286856000,
+            "sequenceNumber": 17,
+            "entityName": "lnguyen37",
+            "publicIndicator": true,
+            "actionNumber": 100525
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "lnguyen37",
+                "lastModifiedTime": 1286465996
+            },
+            "caseActionCode": "CTNF",
+            "caseActionDescriptionText": "Non-Final Rejection",
+            "applicationStatusNumber": "40",
+            "applicationStatusDescriptionText": "Non Final Action Counted, Not Yet Mailed",
+            "applicationStatusDate": 1285955002,
+            "recordedDate": 1285905600,
+            "sequenceNumber": 16,
+            "entityName": "wanthony",
+            "publicIndicator": true,
+            "actionNumber": 102022
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "jmitchell1",
+                "lastModifiedTime": 1285618560
+            },
+            "caseActionCode": "IDSC",
+            "caseActionDescriptionText": "Information Disclosure Statement considered",
+            "recordedDate": 1230613200,
+            "sequenceNumber": 15,
+            "entityName": "jmitchell1",
+            "publicIndicator": true,
+            "actionNumber": 140748
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "EXBDENF2",
+                "lastModifiedTime": 1278063608
+            },
+            "caseActionCode": "EML_NTR",
+            "caseActionDescriptionText": "Email Notification",
+            "recordedDate": 1278043200,
+            "sequenceNumber": 14,
+            "entityName": "EXBDENF2",
+            "publicIndicator": true,
+            "actionNumber": 140859
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "PMG991B",
+                "lastModifiedTime": 1277941661
+            },
+            "caseActionCode": "PG-ISSUE",
+            "caseActionDescriptionText": "PG-Pub Issue Notification",
+            "recordedDate": 1277956800,
+            "sequenceNumber": 13,
+            "entityName": "PMG991B",
+            "publicIndicator": true,
+            "actionNumber": 140822
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "sgarnett",
+                "lastModifiedTime": 1242687079
+            },
+            "caseActionCode": "TSSCOMP",
+            "caseActionDescriptionText": "IFW TSS Processing by Tech Center Complete",
+            "recordedDate": 1242619200,
+            "sequenceNumber": 12,
+            "entityName": "sgarnett",
+            "publicIndicator": true,
+            "actionNumber": 140592
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "sgarnett",
+                "lastModifiedTime": 1242686988
+            },
+            "caseActionCode": "RCAP",
+            "caseActionDescriptionText": "Reference capture on IDS",
+            "recordedDate": 1230613200,
+            "sequenceNumber": 11,
+            "entityName": "sgarnett",
+            "publicIndicator": true,
+            "actionNumber": 140608
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "sgarnett",
+                "lastModifiedTime": 1242686967
+            },
+            "caseActionCode": "M844",
+            "caseActionDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "recordedDate": 378536400,
+            "sequenceNumber": 10,
+            "entityName": "sgarnett",
+            "publicIndicator": true,
+            "actionNumber": 101023
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "tbentley",
+                "lastModifiedTime": 1242231577
+            },
+            "caseActionCode": "DOCK",
+            "caseActionDescriptionText": "Case Docketed to Examiner in GAU",
+            "applicationStatusNumber": "30",
+            "applicationStatusDescriptionText": "Docketed New Case - Ready for Examination",
+            "applicationStatusDate": 1242231577,
+            "recordedDate": 1242187200,
+            "sequenceNumber": 9,
+            "entityName": "tbentley",
+            "publicIndicator": true,
+            "actionNumber": 100001
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "pgpclassifier",
+                "lastModifiedTime": 1236820797
+            },
+            "caseActionCode": "OIPE",
+            "caseActionDescriptionText": "Application Dispatched from OIPE",
+            "applicationStatusNumber": "20",
+            "applicationStatusDescriptionText": "Application Dispatched from Preexam, Not Yet Docketed",
+            "applicationStatusDate": 1236820797,
+            "recordedDate": 1236744000,
+            "sequenceNumber": 8,
+            "entityName": "pgpclassifier",
+            "publicIndicator": true,
+            "actionNumber": 703
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "cnega",
+                "lastModifiedTime": 1235395784
+            },
+            "caseActionCode": "PGPC",
+            "caseActionDescriptionText": "Sent to Classification Contractor",
+            "applicationStatusNumber": "17",
+            "applicationStatusDescriptionText": "Sent to Classification contractor",
+            "applicationStatusDate": 1235395784,
+            "recordedDate": 1235365200,
+            "sequenceNumber": 7,
+            "entityName": "cnega",
+            "publicIndicator": true,
+            "actionNumber": 140820
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "cnega",
+                "lastModifiedTime": 1235395784
+            },
+            "caseActionCode": "FLRCPT.O",
+            "caseActionDescriptionText": "Filing Receipt",
+            "recordedDate": 1235365200,
+            "sequenceNumber": 6,
+            "entityName": "cnega",
+            "publicIndicator": true,
+            "actionNumber": 140853
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "ttruong2",
+                "lastModifiedTime": 1234356752
+            },
+            "caseActionCode": "APPERMS",
+            "caseActionDescriptionText": "Applicants have given acceptable permission for participating foreign",
+            "recordedDate": 1230613200,
+            "sequenceNumber": 5,
+            "entityName": "ttruong2",
+            "publicIndicator": true,
+            "actionNumber": 140774
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "aphillips",
+                "lastModifiedTime": 1231338064
+            },
+            "caseActionCode": "L194",
+            "caseActionDescriptionText": "Cleared by OIPE CSR",
+            "recordedDate": 1231304400,
+            "sequenceNumber": 4,
+            "entityName": "aphillips",
+            "publicIndicator": true,
+            "actionNumber": 140582
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "PASS_Val",
+                "lastModifiedTime": 1230910753
+            },
+            "caseActionCode": "SCAN",
+            "caseActionDescriptionText": "IFW Scan & PACR Auto Security Review",
+            "recordedDate": 1230872400,
+            "sequenceNumber": 3,
+            "entityName": "PASS_Val",
+            "publicIndicator": true,
+            "actionNumber": 701
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "jmitchell1",
+                "lastModifiedTime": 1285618561
+            },
+            "caseActionCode": "WIDS",
+            "caseActionDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "recordedDate": 1230613200,
+            "sequenceNumber": 2,
+            "entityName": " ",
+            "publicIndicator": true,
+            "actionNumber": 140836
+        },
+        {
+            "audit": {
+                "lastModifiedUser": "efswuser",
+                "lastModifiedTime": 1230654350
+            },
+            "caseActionCode": "IEXX",
+            "caseActionDescriptionText": "Initial Exam Team nn",
+            "applicationStatusNumber": "19",
+            "applicationStatusDescriptionText": "Application Undergoing Preexam Processing",
+            "applicationStatusDate": 1230654350,
+            "recordedDate": 1230613200,
+            "sequenceNumber": 1,
+            "entityName": "efswuser",
+            "publicIndicator": true,
+            "actionNumber": 700
+        }
+    ]
+} 

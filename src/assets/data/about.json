@@ -1,0 +1,34 @@
+{
+    "lifeCycle": {},
+    "applicationIdentifier": {
+        "applicationNumberText": "13077562         "
+    },
+    "audit": {
+        "lastModifiedUser": "rfeniza",
+        "lastModifiedTime": 1536678852
+    },
+    "filingDate": 1301544000,
+    "customerNumberText": "13859",
+    "currentApplClass": "348",
+    "subclass": "056000",
+    "groupArtUnitNumber": "2483",
+    "firstInventorToFileIndicator": "N",
+    "effectiveFilingDate": 1301544000,
+    "applicationWithdrawnDate": 1524542400,
+    "applicationFileReference": "MST1.0061US",
+    "applicationConfirmationNumber": "5789",
+    "inventionTitle": "Image Playback System, Associated Apparatus and Method Thereof",
+    "partyIdentifier": "88810",
+    "unmatchedPetitionIndicator": "Y",
+    "secrecyCode": "1",
+    "applicationStatusDate": 1535813704,
+    "physicalObjectStatusCode": "N",
+    "isPublic": true,
+    "applicationTypeCategory": "REGULAR",
+    "inventionSubjectMatterCategory": "UTL",
+    "statusNumber": "161",
+    "nationalStageIndicator": "N",
+    "applicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+    "specialExaminationIndicator": "N"
+}
+
